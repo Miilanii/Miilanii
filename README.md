@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-- 🔭 Completing a  Data Science course with WorldQuant University.<br>- 🌱 I'm open to collaborate on any back end projects involving API's, Systems Integration and Data manipulation.<br>- 👯 I'm currently learning Data Pipelines using Apache Airflow and Power BI for data visualisation.<br>- 💬 Ask me about JAVA or anything OOP related.<br>- ⚡ Fun fact: By the day I'm a developer juggling multiple threads, by the night hairdresser juggling multiple heads. Either way I've mastered concurrency without deadlocks.
-<!--
+<!-- - 🔭 Completing a  Data Science course with WorldQuant University.<br>- 🌱 I'm open to collaborate on any back end projects involving API's, Systems Integration and Data manipulation.<br>- 👯 I'm currently learning Data Pipelines using Apache Airflow and Power BI for data visualisation.<br>- 💬 Ask me about JAVA or anything OOP related.<br>- ⚡ Fun fact: By the day I'm a developer juggling multiple threads, by the night hairdresser juggling multiple heads. Either way I've mastered concurrency without deadlocks.
+-->
 **Miilanii** 
 
 -  Completing a  Data Science course with WorldQuant University.
@@ -10,7 +10,6 @@
 - 💬 Ask me about JAVA or anything OOP related.
 - ⚡ Fun fact: By the day I'm a developer juggling multiple threads, by the night hairdresser juggling multiple heads. Either way I've mastered concurrency without deadlocks.
 
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masobopha_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milanisobopha1@gmail.com) 
