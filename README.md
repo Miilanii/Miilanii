@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me: proud data enthusiast
+# 💫 About Me: Proud Data enthusiast
 <!-- - 🔭 Completing a  Data Science course with WorldQuant University.<br>- 🌱 I'm open to collaborate on any back end projects involving API's, Systems Integration and Data manipulation.<br>- 👯 I'm currently learning Data Pipelines using Apache Airflow and Power BI for data visualisation.<br>- 💬 Ask me about JAVA or anything OOP related.<br>- ⚡ Fun fact: By the day I'm a developer juggling multiple threads, by the night hairdresser juggling multiple heads. Either way I've mastered concurrency without deadlocks.
 -->
 **Miilanii** 
